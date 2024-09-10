@@ -14,5 +14,3 @@ The minimal wsgi app dockerize with `flask`, `hypercorn` and `uvloop`
 uv pip compile pyproject.toml -o requirements.txt
 ```
 
-
-
